@@ -1,0 +1,56 @@
+
+body{
+    background-color: black !important;
+}
+
+.watch{
+    /* display: flex; */
+    background-color: black;
+    margin: 80px auto;
+    /* flex-wrap: wrap; */
+
+    
+   
+    
+} 
+
+p{
+    color: greenyellow;
+    display: inline;
+    margin-left: 5px;
+}
+h1{
+   
+    display: inline-flex;
+    justify-content: center;
+    color: red !important;
+    margin-left: 20px;
+    font-size: 80px;
+    width: auto;
+    
+    
+   
+ 
+}
+
+.border{
+    border:  2px solid white;
+    border-radius:50px;
+    display: flex;
+    
+    flex-flow: column;
+    align-items: center;
+  
+}
+
+
+#start, #pause, #reset{
+    display: inline-block;
+    justify-content: space-around;
+    margin-left: 10px;
+    font-size: 20px;
+    height: auto;
+    width: auto;
+   
+}
+
